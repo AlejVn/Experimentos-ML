@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision,Recall,F1,Tiempo (s),Familia
+"MLP_BASE | hls=(100,) lr=0.001 a=0.0001",0.8906,0.5563,0.3207,0.4069,53.92,MLP
+RF_BASE | n=100 d=None mss=2,0.8958,0.6559,0.2294,0.3399,3.33,Random Forest
+SVM_exp01 | C=0.1 g=0.001 k=linear,0.3462,0.097,0.552,0.165,3.02,SVM
