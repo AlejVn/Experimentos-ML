@@ -38,9 +38,10 @@ Para ejecutar los notebooks localmente, se recomienda utilizar el entorno virtua
    ```
 3. Abre los archivos `.ipynb` en tu navegador y ejecuta las celdas secuencialmente.
 
-### Autor
-
-[Tu Nombre/Organización]
+### Autores
+Alejandro Villamil Niño
+Samuel Rodríguez Murillo
+Tomas A. Barbosa Rey
 
 ---
 
@@ -80,7 +81,7 @@ To run the notebooks locally, it is recommended to use the provided virtual envi
    ```
 3. Open the `.ipynb` files in your browser and run the cells sequentially.
 
-### Authors/Autores
+### Authors
 Alejandro Villamil Niño
 Samuel Rodríguez Murillo
 Tomas A. Barbosa Rey
